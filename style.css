@@ -1,0 +1,85 @@
+li{
+    display: inline;
+    color: #ffffff;
+}
+.ull{
+    background-color: #ffc0cb;
+    padding: 25px ;
+    font-size: 38px;
+    text-decoration: none;
+    color: #f0ffff;
+}
+.ull a:hover{
+    color: #ff2600;
+    cursor: pointer;
+}
+div{
+    display: block;
+}
+.divv{
+    text-align: center
+    padding 20px;
+}
+.poem1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #00ffff;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    display: block;
+    margin-block-end: 0.67em;
+    margin-inline-end: 0.67em;
+    margin-inline-end: 0px;
+    margin-inline-start: 0px;
+
+
+}
+.poem1::first-letter{
+    font-size: 120px;
+    color: #adff2f;
+}
+.para{
+    font-family: 'Times New Roman', Times, serif;
+    color: #008080;
+    font-weight: bold;
+}
+.para::first-line{
+    color: #a52a2a;
+}
+p{
+    text-align: center;
+    font-size: 25px;
+}
+.poem2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #d2691e;
+}
+.poem2::first-letter{
+    color: #ffff00;
+    font-size: 120px;
+}
+.poem3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ff0000;
+}
+.poem3::first-letter{
+    font-size: 120px;
+    color: #00ff00
+}
+.poem4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #ff00ff;
+}
+.poem4::first-letter{
+    color: #4400ff;
+    font-size: 120px;
+}
+.poem5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #00ff2a;
+}
+.poem5::first-letter{
+    color: #00f7ff;
+    font-size: 120px;
+}
